@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @vikaspatel2
-- Well know of HTML,CSS,JAVA,ADVANCE PHP
-- I’m interested in ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- How to reach me ...
+- Im IT stydent 
+- Well know of HTML,CSS,Python,JAVA,ADVANCE PHP
+- I’m interested in web development and app development 
+
 
 <!---
 vikaspatel2/vikaspatel2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
