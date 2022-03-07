@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikaspatel2
-- Im IT stydent 
+- Im IT student 
 - Well know of HTML,CSS,Python,JAVA,ADVANCE PHP
 - I’m interested in web development and app development 
 
