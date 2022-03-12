@@ -13,7 +13,7 @@
         <br>
         <p>
 <h5>Hello,I'm <i>Vikas</i> from Mumbai India, i'm learning to develop myself as my name.</h5>
-         <h5 align=center>Ambitious learner<h5>
+         <h5>Ambitious learner<h5>
   <h5>I'm an IT student at University of Mumbai.</h5>
 
      
