@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @vikaspatel2</h1>
+- <h1>👋 Hi, I’m vikas patel</h1>
 
 - Im an IT student at University of Mumbai.
 - Ambitious learner!
