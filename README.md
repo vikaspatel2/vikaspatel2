@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @vikaspatel2
+- <h1>👋 Hi, I’m @vikaspatel2</h1>
+
 - Im an IT student at University of Mumbai.
 - Ambitious learner!
 
