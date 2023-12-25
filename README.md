@@ -12,10 +12,7 @@
     <div align=left>
         <br>
         <p>
-<h5>Hello,I'm <i>Vikas</i> from Mumbai India, i'm learning to develop myself as my name.</h5>
-         <h5>Ambitious learner<h5>
-  <h5>I'm an IT student at University of Mumbai.</h5>
-<h5>Trying to sleep but bugs are irritating<h5>
+<h5>Hello,I'm <b>Vikas Patel</b> from Mumbai India, Working as a Software Developer!</h5>
      
 ![trophy](https://github-profile-trophy.vercel.app/?username=Vikaspatel2&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikaspatel2&show_icons=true&count_private=true&theme=great-gatsby) </br>
@@ -27,7 +24,12 @@
 <a href="https://www.hackerrank.com/certificates/9aa4db46bf05">CLICK ME</a>
 <h4> Languages </h4>
 <span> 
+  <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+    <img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src ="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
