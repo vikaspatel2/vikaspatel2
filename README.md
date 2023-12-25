@@ -21,7 +21,6 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
-<a href="https://www.hackerrank.com/certificates/9aa4db46bf05">CLICK ME</a>
 <h4> Languages </h4>
 <span> 
   <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
