@@ -13,6 +13,7 @@
         <br>
         <p>
 <h5>Hello!! I'm <b>Vikas Patel</b> from Mumbai India, Working as a Software Developer!</h5>
+
      
 ![trophy](https://github-profile-trophy.vercel.app/?username=Vikaspatel2&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikaspatel2&show_icons=true&count_private=true&theme=great-gatsby) </br>
